@@ -38,7 +38,7 @@ STEP 1 : ambil Wordlist
 
 STEP 2 : ambil script
 
-``wget -q -O cek "https://raw.githubusercontent.com/rhdns/scan-websocket-bughost/main/scan_bug.sh" && chmod +x cek``
+``wget -q -O cek "https://raw.githubusercontent.com/rhdns9/Scanbug/main/scan_bug.sh" && chmod +x cek``
 
 STEP 3 : jalankan script
 
